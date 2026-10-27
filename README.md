@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Inkle is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.inkle.ai/
+Inkle provides AI‑powered bookkeeping, tax filing, incorporation, and virtual address services for U.S. startups and small businesses. Their platform integrates with popular accounting tools like QuickBooks, Xero, and Zoho Books, offering automated financial workflows, compliance assistance, and access to licensed CPAs. Inkle aims to simplify company formation and ongoing financial management for entrepreneurs.
+
+**Areas:** Company · Accounting · Bookkeeping · Tax · Incorporation · Startup
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.inkle.ai/)
+- [Documentation](https://www.inkle.ai/help-center-articles)
+- [Getting started](https://www.inkle.ai/demo/onboarding)
+- [Pricing](https://www.inkle.ai/pricing)
+- [Sign up](https://www.inkle.ai/registered-agent)
+- [Support](https://www.inkle.ai/contact)
+- [Blog](https://www.inkle.ai/blog)
+- [Security](https://www.inkle.ai/security)
+- [Compliance](https://www.inkle.ai/security)
+- [Privacy policy](https://www.inkle.ai/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/inkle/](https://apis.io/providers/inkle/).
